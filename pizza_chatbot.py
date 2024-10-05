@@ -1,6 +1,6 @@
 import spacy
 
-# Load the spaCy model
+# Load the spacy model
 nlp = spacy.load("en_core_web_sm")
 
 # Define some predefined responses
